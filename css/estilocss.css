@@ -1,0 +1,59 @@
+h1 {
+  background-color: #1d1d1f; }
+
+a {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px; }
+
+.rotulo1 {
+  background-color: #1d1d1f;
+  flex: 1;
+  padding: 5rem;
+  margin: 1px;
+  color: #FF08A1;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 58px;
+  font-family: "PT Sans Narrow", sans-serif;
+  text-align: center;
+  text-transform: uppercase; }
+
+.rotulo2 {
+  flex: 4;
+  padding: 6rem;
+  margin: 1px;
+  text-align: center;
+  color: black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  font-family: "PT Sans Narrow", sans-serif; }
+
+textarea {
+  font-family: "PT Sans Narrow", sans-serif; }
+
+.rotulobox1 {
+  background-color: #1d1d1f;
+  flex: 1;
+  padding: 5rem;
+  margin: 1px;
+  color: #E5FF08;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 58px;
+  font-family: "PT Sans Narrow", sans-serif;
+  text-align: center;
+  text-transform: uppercase; }
+
+.rotulobox2 {
+  flex: 4;
+  padding: 4rem;
+  margin: 1px;
+  text-align: center;
+  color: black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  font-family: "PT Sans Narrow", sans-serif; }
